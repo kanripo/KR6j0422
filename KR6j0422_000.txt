@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 曼殊室利菩薩吉祥伽陀
+#+DATE: 2015-08-30 20:32:11.205628
+#+PROPERTY: JUAN 0
